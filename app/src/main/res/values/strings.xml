@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ZZ_ToastCustom__JVm</string>
+    <string name="TV_1_IDXML">Ini Adalah Contoh Toast Dengan Gambar Custom</string>
+    <string name="B_1_MainActivity_IDXML">Coba Klik Disini</string>
+</resources>
